@@ -3,6 +3,9 @@
 <p align="center">
   <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Full%20Stack-eveloper;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
+
+<picture> <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasnirmana&label=Profile%20views&color=0e75b6&style=flat" alt="kasnirmana" /> </p>
 
 - 🌱 I’m currently learning **Enterpricess JAVA, .NET, Django, Web Scrapping, React, AI Engines, Machine Learning, Blender 3D**
