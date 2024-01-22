@@ -10,6 +10,9 @@
 
 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
+
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100px" alt="Git"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasnirmana&label=Profile%20views&color=0e75b6&style=flat" alt="kasnirmana" /> </p>
 
 - 🌱 I’m currently learning **Enterpricess JAVA, .NET, Django, Web Scrapping, React, AI Engines, Machine Learning, Blender 3D**
