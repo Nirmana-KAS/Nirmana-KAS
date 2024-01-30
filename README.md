@@ -5,6 +5,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <p align="center">  <img src="https://komarev.com/ghpvc/?username=kasnirmana&label=Profile%20views&color=0e75b6&style=flat" alt="kasnirmana" /> </p>
+ <p align="center" ><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100px" alt="Git"/></p>
 
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px align="center"></picture>
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
@@ -234,7 +235,7 @@
 </p>
 
 
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100px" alt="Git"/>
+
 
 
 
