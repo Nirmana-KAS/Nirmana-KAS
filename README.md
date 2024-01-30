@@ -5,6 +5,29 @@
 <p align="center"> <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 20px>  </picture> <img src="https://komarev.com/ghpvc/?username=kasnirmana&label=Profile%20views&color=0e75b6&style=flat" alt="kasnirmana" /> </p>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
+- 🌱 I’m currently learning **Enterpricess JAVA, .NET, Django, Web Scrapping, React, AI Engines, Machine Learning, Blender 3D**
+
+- 💬 Ask me about **C, JAVA, HTML, CSS, JAVA SCRIPT, PHP, SQL, PYTHON**
+
+- 📫 How to reach me **shehanwarnasooriya@gamail.com**
+
+- ⚡ Fun fact **Everytime, I TRY TO DO MY BEST...**
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
+</table>
+
+
 
  <p align="center" ><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100px" alt="Git"/></p>
 
