@@ -17,15 +17,12 @@
 
 - ⚡ Fun fact **Everytime, I TRY TO DO MY BEST...**
 
-</td>
-<td width="50%" align="center">
-
-  <img align="center" alt="Coding" width="450" src="https://github.com/KASNirmana/Tempate-Photo/blob/main/api-512d36c09662682717108a38bbb5c57d.gif">
-
-  </td>
+	</td>
+	<td width="50%" align="center"><img align="center" alt="Coding" width="450" src="https://github.com/KASNirmana/Tempate-Photo/blob/main/api-512d36c09662682717108a38bbb5c57d.gif">
+  	</td>
 </tr>
 </table>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
  <p align="center" ><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100px" alt="Git"/></p>
