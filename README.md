@@ -1,5 +1,18 @@
 
 
+<style>
+.background {
+  background-image: url('your-gif-url.gif');
+  background-position: center;
+  background-size: cover;
+  overflow: hidden;
+}
+</style>
+
+<div class="background">
+  <!-- your website content here -->
+
+
 <p style="background-image: url('https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/Animation%20Tech%20GIF%20by%20Butlerm%20-%20Find%20%26%20Share%20on%20GIPHY.gif');">
 <img src="https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/Animation%20Tech%20GIF%20by%20Butlerm%20-%20Find%20%26%20Share%20on%20GIPHY.gif" width="100%">
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
@@ -378,3 +391,7 @@
 <a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 <a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
 </p>
+
+
+
+</div>
