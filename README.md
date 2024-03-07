@@ -27,7 +27,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50px" alt="Git"/>My Statistics: <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50px" alt="Git"/></h2>
+<h2 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35px" alt="Git"/>My Statistics: <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35px" alt="Git"/></h2>
 <p align="center">
 <table align="center">
 <tr border="none">
