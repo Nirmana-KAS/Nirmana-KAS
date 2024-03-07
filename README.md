@@ -2,7 +2,7 @@
 
 <style>
 .background {
-  background-image: url('your-gif-url.gif');
+  background-image: url('https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/Animation%20Tech%20GIF%20by%20Butlerm%20-%20Find%20%26%20Share%20on%20GIPHY.gif');
   background-position: center;
   background-size: cover;
   overflow: hidden;
