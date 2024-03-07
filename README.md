@@ -1,4 +1,4 @@
-https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/Animation%20Tech%20GIF%20by%20Butlerm%20-%20Find%20%26%20Share%20on%20GIPHY.gif
+
 
 <p style="background-image: url('img_girl.jpg](https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/Animation%20Tech%20GIF%20by%20Butlerm%20-%20Find%20%26%20Share%20on%20GIPHY.gif');">
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
