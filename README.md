@@ -1,6 +1,7 @@
 
 
 <p style="background-image: url('https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/Animation%20Tech%20GIF%20by%20Butlerm%20-%20Find%20%26%20Share%20on%20GIPHY.gif');">
+<img src="https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/Animation%20Tech%20GIF%20by%20Butlerm%20-%20Find%20%26%20Share%20on%20GIPHY.gif" width="100%">
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <p align="center" ><img height="150px" width= "160px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" /></p>
