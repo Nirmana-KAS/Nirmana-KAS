@@ -238,12 +238,18 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
- <p align="center" ><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100px" alt="Git"/></p>
- <img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px align="center"></picture>
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+<p><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100px" alt="Git"/></p>
+
+<img height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif"/>
+
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></picture>
+
+<picture> <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+
 <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 100px>  </picture> Programming languages
+
 <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 200px>  </picture> Frontend Development
+
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 200px>  </picture> Software & Tools
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 300px>  </picture> Github Stats
 <h3 align="center">A passionate frontend developer from Sri Lanaka</h3>
