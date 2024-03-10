@@ -102,6 +102,10 @@
     <img src="https://img.shields.io/badge/php-a366ff.svg?style=for-the-badge&logo=php&logoColor=white"
       alt="php"/> 
   </a> 
+ <a href="https://www.w3schools.com/django/" target="_blank"> 
+    <img src="https://img.shields.io/badge/django-004d26.svg?style=for-the-badge&logo=django&logoColor=white"
+      alt="django"/> 
+  </a> 
 </p>
 
 
