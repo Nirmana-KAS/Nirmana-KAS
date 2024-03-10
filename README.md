@@ -152,10 +152,16 @@
 
 <a href="https://instagram.com/shehan_nirmana_?igsh=mw1iajhvngxxznvwyw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shehan_nirmana___" height="30" width="40" /> shehan_nirmana___ </a>
 
+<a href="shehanwarnasooriya@gmail.com" target="blank"><img align="center" src="https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/Email_(1674)_-_The_Noun_Project.svg" alt="shehanwarnasooriya@gmail.com" height="30" width="40" /> shehanwarnasooriya@gmail.com </a>
+
 </p>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<h3 align="center">Support:</h3>
+<p align="center"><a href="https://www.buymeacoffee.com/Nirmana-KAS"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Nirmana-KAS" /></a></p>
 
 <p align="center" ><img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="100px"></p>
 
