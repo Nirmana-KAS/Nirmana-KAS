@@ -69,7 +69,7 @@
   </a>
 </p>
 
-<h2 align="center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 25px> Frontend <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 25px></h2>
+<h2 align="center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 30px> Frontend <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 30px></h2>
 <p align="center">
     
  <a href="https://www.w3schools.com/css/" target="_blank">
