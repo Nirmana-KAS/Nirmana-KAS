@@ -53,8 +53,8 @@
     <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
       alt="c"/>
   </a>
-  <a href="https://www.java.com/en/" target="_blank"> 
-    <img src="https://img.shields.io/badge/java-original.svg?style=for-the-badge&logo=java-oracle&logoColor=white" 
+  <a href="https://www.w3schools.com/java/" target="_blank"> 
+    <img src="https://img.shields.io/badge/java-original.svg?style=for-the-badge&logo=java&logoColor=white" 
       alt="java"/> 
   </a>
   
