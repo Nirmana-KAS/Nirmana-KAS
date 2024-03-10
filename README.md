@@ -85,7 +85,8 @@
     <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
       alt="bootstrap"/>
      </a>
-    <a href="https://www.figma.com/" target="_blank">
+     
+<a href="https://www.figma.com/" target="_blank">
     <img src="https://img.shields.io/badge/figma-red.svg?style=for-the-badge&logo=figma&logoColor=white"
       alt="figma"/>
      </a> 
@@ -119,7 +120,7 @@
   </a>
 
 <a href="https://netbeans.apache.org/" target="_blank">
-    <img src="https://img.shields.io/badge/netbeans-00ff00.svg?style=for-the-badge&logo=netbeans&logoColor=white" alt="netbeans"/> 
+    <img src="https://img.shields.io/badge/netbeans-009900.svg?style=for-the-badge&logo=netbeans&logoColor=white" alt="netbeans"/> 
   </a>
 
 </p>
