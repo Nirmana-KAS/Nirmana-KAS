@@ -152,7 +152,7 @@
 
 <a href="https://instagram.com/shehan_nirmana_?igsh=mw1iajhvngxxznvwyw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shehan_nirmana___" height="30" width="40" /> shehan_nirmana___ </a>
 
-<a href="shehanwarnasooriya@gmail.com" target="blank"><img align="center" src="https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/5584532_email_gmail_google_shubhambhatia_thevectorframe_icon.svg" alt="shehanwarnasooriya@gmail.com" height="30" width="40" /> shehanwarnasooriya@gmail.com </a>
+<a href="shehanwarnasooriya@gmail.com" target="blank"><img align="center" src="https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/1209534_address%20book_contacts_email_gmail_mail_icon.svg" alt="shehanwarnasooriya@gmail.com" height="30" width="40" /> shehanwarnasooriya@gmail.com </a>
 
 </p>
 
