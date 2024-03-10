@@ -129,15 +129,16 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="left"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"> Connect with me:<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></h3>
-<p align="left">
-<a href="https://twitter.com/nirmana_shehan?t=2vm8_ib_9vkyxjaivnq0pq&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nirmana_shehan?t=2vm8_ib_9vkyxjaivnq0pq&s=08" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shehan-nirmana-7ab3b1257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shehan-nirmana-7ab3b1257" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100010942234880&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100010942234880&mibextid=zbwkwl" height="30" width="40" /></a>
+
+<h2 align="center"> Connect with me:</h2>
+<p align="center">
+<a href="https://twitter.com/nirmana_shehan?t=2vm8_ib_9vkyxjaivnq0pq&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nirmana_shehan?t=2vm8_ib_9vkyxjaivnq0pq&s=08" height="30" width="40" /></a><br>
+<a href="https://linkedin.com/in/shehan-nirmana-7ab3b1257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shehan-nirmana-7ab3b1257" height="30" width="40" /></a><br>
+<a href="https://fb.com/profile.php?id=100010942234880&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100010942234880&mibextid=zbwkwl" height="30" width="40" /></a><br>
 <a href="https://instagram.com/shehan_nirmana_?igsh=mw1iajhvngxxznvwyw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shehan_nirmana_?igsh=mw1iajhvngxxznvwyw==" height="30" width="40" /></a>
 </p>
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
