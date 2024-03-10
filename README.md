@@ -67,11 +67,6 @@
     <img src="https://img.shields.io/badge/python-original.svg?style=for-the-badge&logo=python&logoColor=white"
       alt="python"/>
   </a>
-  <a href="https://www.blender.org/" target="_blank">
-    <img src="https://img.shields.io/badge/blender_community_badge_white.svg?style=for-the-badge&logo=python&logoColor=white"
-      alt="blender"/>
-  </a>
-  
 </p>
 
 <h2 align="center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 40px> Frontend <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 40px></h2>
