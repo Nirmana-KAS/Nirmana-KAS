@@ -54,7 +54,7 @@
       alt="c"/>
   </a>
   <a href="https://www.java.com/en/" target="_blank"> 
-    <img src="https://img.shields.io/badge/java-original.svg?style=for-the-badge&logo=oracle&logoColor=white" 
+    <img src="https://img.shields.io/badge/java-original.svg?style=for-the-badge&logo=java-oracle&logoColor=white" 
       alt="java"/> 
   </a>
   
