@@ -125,11 +125,6 @@
     <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
   </a>
 
-<a href="https://www.blender.org/" target="_blank">
-    <img src="https://img.shields.io/badge//branding/community/blender_community_badge_white.svg?style=for-the-badge&logo=blender&logoColor=white" alt="blender"/>
-  </a>
-
-  
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
