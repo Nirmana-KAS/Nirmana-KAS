@@ -123,6 +123,10 @@
     <img src="https://img.shields.io/badge/netbeans-00cc00.svg?style=for-the-badge&logo=netbeans&logoColor=white" alt="netbeans"/> 
   </a>
 
+  <a href="https://www.codeblocks.org/" target="_blank">
+    <img src="https://img.shields.io/badge/codeblocks-cccc00.svg?style=for-the-badge&logo=codeblocks&logoColor=white" alt="codeblocks"/> 
+  </a>
+
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
