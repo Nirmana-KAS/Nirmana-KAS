@@ -142,14 +142,13 @@
 
 <h2 align="center"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"></h2>
 <p align="center">
-<a href="https://x.com/nirmana_shehan" target="blank"><img align="center" src="https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/x-social-media-round-icon.svg" alt="@nirmana_shehan" height="50" width="50" /> 
-</a></p> @nirmana_shehan <br><br>
-<p align="center">
-<a href="https://linkedin.com/in/shehan-nirmana-7ab3b1257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/shehan-nirmana" height="30" width="40" /></a></p> in/shehan-nirmana <br><br>
-<p align="center">
-<a href="https://fb.com/profile.php?id=100010942234880&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="K.A.S.Nirmana" height="30" width="40" /></a> </p> K.A.S.Nirmana<br><br>
-<p align="center">
-<a href="https://instagram.com/shehan_nirmana_?igsh=mw1iajhvngxxznvwyw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shehan_nirmana___" height="30" width="40" /></a></p> shehan_nirmana___ 
+<a href="https://x.com/nirmana_shehan" target="blank"><img align="center" src="https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/x-social-media-round-icon.svg" alt="@nirmana_shehan" height="50" width="50" /> @nirmana_shehan </a> &nbsp;
+
+<a href="https://linkedin.com/in/shehan-nirmana-7ab3b1257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/shehan-nirmana" height="30" width="40" /> in/shehan-nirmana </a> &nbsp;
+
+<a href="https://fb.com/profile.php?id=100010942234880&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="K.A.S.Nirmana" height="30" width="40" /> K.A.S.Nirmana </a> &nbsp;
+
+<a href="https://instagram.com/shehan_nirmana_?igsh=mw1iajhvngxxznvwyw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shehan_nirmana___" height="30" width="40" /> shehan_nirmana___ </a></p>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
