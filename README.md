@@ -126,8 +126,8 @@
   </a>
 
 <a href="https://www.blender.org/" target="_blank">
-    <img src="https://img.shields.io/badge/blender_community_badge_white.svg?style=for-the-badge&logo=blender&logoColor=white"
-      alt="git"/>
+    <img src="https://img.shields.io/badge/blender.svg?style=for-the-badge&logo=blender&logoColor=white"
+      alt="blender"/>
   </a>
 
   
