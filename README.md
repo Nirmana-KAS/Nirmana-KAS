@@ -91,7 +91,7 @@
      </a>
 </p>
 
-<h2 align="center"><img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width = 100px> Backend & Database <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width = 100px> </h2>
+<h2 align="center"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> Backend & Database <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> </h2>
 <p align="center">
   <a href="https://nodejs.org" target="_blank"> 
     <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
