@@ -89,7 +89,7 @@
       alt="bootstrap"/>
      </a>
     <a href="https://www.figma.com/" target="_blank">
-    <img src="https://img.shields.io/badge/figma-icon.svg?style=for-the-badge&logo=figma&logoColor=black"
+    <img src="https://img.shields.io/badge/figma-icon-red.svg?style=for-the-badge&logo=figma&logoColor=blue"
       alt="figma"/>
      </a> 
 </p>
