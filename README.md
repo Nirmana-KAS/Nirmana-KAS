@@ -64,7 +64,7 @@
   </a>
   
   <a href="https://www.w3schools.com/python/" target="_blank">
-    <img src="https://img.shields.io/badge/python-original.svg?style=for-the-badge&logo=python&logoColor=yellow"
+    <img src="https://img.shields.io/badge/python-aabbcc.svg?style=for-the-badge&logo=python&logoColor=yellow"
       alt="python"/>
   </a>
 </p>
