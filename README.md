@@ -101,7 +101,7 @@
       alt="mysql"/> 
   </a>
   <a href="https:https://www.php.net" target="_blank"> 
-    <img src="https://img.shields.io/badge/php-#000066.svg?style=for-the-badge&logo=php&logoColor=white"
+    <img src="https://img.shields.io/badge/php-purple.svg?style=for-the-badge&logo=php&logoColor=white"
       alt="php"/> 
   </a> 
 </p>
