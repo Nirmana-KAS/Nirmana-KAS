@@ -91,22 +91,18 @@
      </a>
 </p>
 
-<h3 align="center">Backend</h3>
+<h2 align="center">Backend & Database</h2>
 <p align="center">
   <a href="https://nodejs.org" target="_blank"> 
     <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
       alt="nodejs"/> 
   </a>
-
-</p>
-
-<h3 align="center">Database</h3>
-<p align="center">
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
       alt="mongodb"/> 
   </a> 
 </p>
+
 
 <h3 align="center">Preferred IDEs  & Tools :</h3>
 <p align="center"> 
