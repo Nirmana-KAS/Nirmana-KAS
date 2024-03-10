@@ -127,6 +127,10 @@
     <img src="https://img.shields.io/badge/codeblocks-cccc00.svg?style=for-the-badge&logo=codeblocks&logoColor=white" alt="codeblocks"/> 
   </a>
 
+  <a href="https://www.blender.org/" target="_blank">
+    <img src="https://img.shields.io/badge/blender-994d00.svg?style=for-the-badge&logo=blender&logoColor=white" alt="blender"/> 
+  </a>
+
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
