@@ -88,6 +88,10 @@
     <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
       alt="bootstrap"/>
      </a>
+    <a href="https://www.figma.com/" target="_blank">
+    <img src="https://img.shields.io/badge/figma-icon.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
+      alt="figma"/>
+     </a> 
 </p>
 
 <h2 align="center"><img src='https://camo.githubusercontent.com/d2ff3eb4e300b4366924419b7894d9fc33842e563f08c74f24eae4b193a4f07e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966' width="35px"> Backend & Database <img src='https://camo.githubusercontent.com/d2ff3eb4e300b4366924419b7894d9fc33842e563f08c74f24eae4b193a4f07e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966' width="35px"> </h2>
