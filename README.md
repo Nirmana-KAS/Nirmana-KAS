@@ -142,7 +142,7 @@
 
 <h2 align="center"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"></h2>
 <p align="center">
-<a href="https://x.com/nirmana_shehan" target="blank"><img align="center" src="https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/x-social-media-round-icon.svg" alt="nirmana_shehan" height="60" width="60" /></a><br><br>
+<a href="https://x.com/nirmana_shehan" target="blank"><img align="center" src="https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/x-social-media-round-icon.svg" alt="nirmana_shehan" height="50" width="50" /></a><br><br>
 <a href="https://linkedin.com/in/shehan-nirmana-7ab3b1257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shehan-nirmana-7ab3b1257" height="30" width="40" /></a><br><br>
 <a href="https://fb.com/profile.php?id=100010942234880&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100010942234880&mibextid=zbwkwl" height="30" width="40" /></a><br><br>
 <a href="https://instagram.com/shehan_nirmana_?igsh=mw1iajhvngxxznvwyw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shehan_nirmana_?igsh=mw1iajhvngxxznvwyw==" height="30" width="40" /></a>
