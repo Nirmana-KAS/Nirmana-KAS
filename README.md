@@ -144,7 +144,7 @@
 
 <p align="center">
 	
-<a href="https://x.com/nirmana_shehan" target="blank"><img align="center" src="https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/x-social-media-round-icon.svg" alt="@nirmana_shehan" height="50" width="50" /> @nirmana_shehan </a> 
+<a href="https://x.com/nirmana_shehan" target="blank"><img align="center" src="https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/x-social-media-round-icon.svg" alt="@nirmana_shehan" height="40" width="40" /> @nirmana_shehan </a> 
 
 <a href="https://linkedin.com/in/shehan-nirmana-7ab3b1257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/shehan-nirmana" height="30" width="40" /> in/shehan-nirmana </a>
 
