@@ -146,9 +146,9 @@
 <tr border="none">
 <td width="50%" align="center">
 
-<img align="center" src="https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/687A3236%20(1).jpg" width="120px">
+<img align="center" src="https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/687A3236%20(1).jpg" width="160px">
 </td>
-<td width="50%">
+<td >
 
     
 <a href="https://x.com/nirmana_shehan" target="blank"><img align="center" src="https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/x-social-media-round-icon.svg" alt="@nirmana_shehan" height="40" width="40" /> @nirmana_shehan </a> 
