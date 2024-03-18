@@ -144,9 +144,9 @@
 
 <table align="center">
 <tr border="none">
-<td width="50%" align="center">
+<td align="center">
 
-<img align="center" src="https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/687A3236%20(1).jpg" width="160px">
+<img align="center" src="https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/687A3236%20(1).jpg" width="200px">
 </td>
 <td >
 
