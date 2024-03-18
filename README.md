@@ -146,7 +146,7 @@
 <tr border="none">
 <td align="center">
 
-<img align="center" src="https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/687A3236%20(1).jpg" width="200px">
+<img align="center" src="https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/687A3236%20(1).jpg" width="220px">
 </td>
 <td >
 
