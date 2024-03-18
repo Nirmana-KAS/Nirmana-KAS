@@ -144,11 +144,11 @@
 
 <table align="center">
 <tr border="none">
-<td width="50%" align="left">
+<td width="50%" align="center">
 
 <img align="center" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="80px">
 </td>
-<td width="50%" align="center">
+<td width="50%">
 
     
 <a href="https://x.com/nirmana_shehan" target="blank"><img align="center" src="https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/x-social-media-round-icon.svg" alt="@nirmana_shehan" height="40" width="40" /> @nirmana_shehan </a> 
