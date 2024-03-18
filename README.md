@@ -146,7 +146,7 @@
 <tr border="none">
 <td width="50%" align="center">
 
-<img align="center" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="80px">
+<img align="center" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="120px">
 </td>
 <td width="50%">
 
