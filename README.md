@@ -20,7 +20,7 @@
 - ⚡ Fun fact **Everytime, I TRY TO DO MY BEST...**
 
 	</td>
-	<td width="50%" align="center"><img align="center" alt="Coding" width="450" src="https://github.com/KASNirmana/Tempate-Photo/blob/main/api-512d36c09662682717108a38bbb5c57d.gif">
+	<td width="50%" align="center"><img align="center" alt="Coding" width="450" src="https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif">
   	</td>
 </tr>
 </table>
