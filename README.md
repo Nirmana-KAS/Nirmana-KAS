@@ -147,7 +147,7 @@
 <tr border="none">
 <td align="center">
 
-<img align="center" src="https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/WhatsApp%20Image%202024-04-01%20at%2020.12.46_c50b4c5a.jpg" width="220px">
+<img align="center" src="https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/My%20Pic.jpg" width="220px">
 </td>
 <td >
 
