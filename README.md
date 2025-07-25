@@ -8,9 +8,9 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **Enterpricess JAVA, .NET, Django, Web Scrapping, React, AI Engines, Machine Learning, Blender 3D**
+- 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT, PHP, MySQL, C, JAVA, C#, PYTHON, ASP.NET, REACT, FLUTTER, FIREBASE, APIs**
 
-- 💬 Ask me about **C, JAVA, HTML, CSS, JAVA SCRIPT, PHP, SQL, PYTHON**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, PHP, MySQL, C, JAVA, C#, PYTHON, REACT, FLUTTER**
 
 - 📫 How to reach me **shehanwarnasooriya@gamail.com**
 
