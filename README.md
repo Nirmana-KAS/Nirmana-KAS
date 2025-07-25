@@ -22,8 +22,6 @@
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <h2 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> My Statistics: <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/></h2>
 <p align="center">
 <table align="center">
@@ -132,8 +130,9 @@
   <a href="https://www.blender.org/" target="_blank">
     <img src="https://img.shields.io/badge/blender-ff8000.svg?style=for-the-badge&logo=blender&logoColor=white" alt="blender"/> 
   </a>
-
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Support: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"></h2>
 <p align="center"><a href="https://www.buymeacoffee.com/Nirmana-KAS"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Nirmana-KAS" /></a></p>
