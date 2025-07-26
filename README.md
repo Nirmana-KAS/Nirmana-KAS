@@ -1,5 +1,6 @@
 
 <img src="https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/Redline.gif">
+
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Shehan Nirmana</h1>
 
 <p align="center" ><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></p>
@@ -140,3 +141,5 @@
 <br>
 <br>
 <p align="center"><img src='https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif' width="80px"> </p>
+
+<img src="https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/Redline.gif">
