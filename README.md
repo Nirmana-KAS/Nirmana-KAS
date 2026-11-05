@@ -1,148 +1,133 @@
-
-<img src="https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/Redline.gif">
-
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Shehan Nirmana</h1>
-
-<p align="center" > <img src="https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/web-developer-career.gif"> </p>
-
-<p align="center" ><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></p>
-<p align="center"> <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 20px>  </picture> <img src="https://komarev.com/ghpvc/?username=kasnirmana&label=Profile%20views&color=0e75b6&style=flat" alt="kasnirmana" /> </p>
-
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
-  
-- 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT, PHP, MySQL, C, JAVA, C#, PYTHON, ASP.NET, REACT, FLUTTER, FIREBASE, APIs**
-
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, PHP, MySQL, C, JAVA, C#, PYTHON, REACT, FLUTTER**
-
-- 📫 How to reach me **shehanwarnasooriya@gamail.com**
-
-- ⚡ Fun fact **Everytime, I TRY TO DO MY BEST...**
-
-	</td>
-	<td width="50%" align="center"><img align="center" alt="Coding" width="450" src="https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif">
-  	</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> My Statistics: <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/></h2>
+<!-- ANIMATED HEADER -->
 <p align="center">
+  <img width="100%" alt="Shehan Nirmana header banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:6a11cb,100:00d4ff&height=240&section=header&text=Shehan%20Nirmana&fontSize=64&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20Machine%20Learning&descSize=18&descAlignY=56" />
+</p>
+
+<!-- ANIMATED TYPING TEXT -->
+<p align="center">
+  <a href="https://github.com/Nirmana-KAS">
+    <img alt="Animated role titles" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=00D4FF&center=true&vCenter=true&width=640&height=50&lines=Expert+Full+Stack+Developer;Passionate+About+Agentic+AI;Machine+Learning+Enthusiast;Freelancer+%26+Problem+Solver;Always+Learning+New+Things" />
+  </a>
+</p>
+
+<!-- BADGES -->
+<p align="center">
+  <a href="https://github.com/Nirmana-KAS"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Nirmana-KAS?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=6a11cb&labelColor=0f0c29" /></a>
+  <a href="mailto:shehanwarnasooriya@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact%20Me-00d4ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29" /></a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=kasnirmana&label=Profile%20Views&color=6a11cb&style=for-the-badge" />
+</p>
+
+<img width="100%" alt="" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+<!-- ABOUT -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="" /> About Me
+</h2>
+
 <table align="center">
-<tr border="none">
-	<td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Nirmana-KAS&theme=dark&show_icons=true&count_private=true"/>
-  <br>
-  </br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Nirmana-KAS&theme=dark&hide_border=false" /> 
+<tr>
+<td width="55%" valign="middle">
+
+```yaml
+name: Shehan Nirmana
+role: Full Stack Developer & Freelancer
+passion:
+  - Artificial Intelligence
+  - Agentic AI
+  - Machine Learning
+builds:
+  - Full stack web applications
+  - Mobile apps
+  - APIs and databases
+motto: "Every time, I try to do my best."
+```
+
 </td>
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Nirmana-KAS&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
+<td width="45%" align="center" valign="middle">
+  <img width="100%" alt="Animated developer coding" src="https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif?raw=true" />
+</td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="100%" alt="" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-<h2 align="center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 30px> Languages <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 30px></h2>
+<!-- TECH STACK -->
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28" alt="" /> Tech Stack
+</h2>
+
+<h3 align="center">Languages</h3>
 <p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
-      alt="c"/>
-  </a>
-  <a href="https://www.w3schools.com/java/" target="_blank"> 
-    <img src="https://img.shields.io/badge/java-000066.svg?style=for-the-badge&logo=java&logoColor=white" 
-      alt="java"/> 
-  </a>
-  
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
-      alt="html5"/> 
-  </a>
-  
-  <a href="https://www.w3schools.com/python/" target="_blank">
-    <img src="https://img.shields.io/badge/python-blue.svg?style=for-the-badge&logo=python&logoColor=white"
-      alt="python"/>
-  </a>
+  <img alt="C, Java, C#, Python, PHP, JavaScript" src="https://skillicons.dev/icons?i=c,java,cs,python,php,js&theme=dark" />
 </p>
 
-<h2 align="center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 40px> Frontend <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 40px></h2>
+<h3 align="center">Frontend and Mobile</h3>
 <p align="center">
-    
- <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
-      alt="css3"/>
-  </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
-      alt="javascript"/> 
-  </a>
-
-   <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
-      alt="bootstrap"/>
-     </a>
-     
-<a href="https://www.figma.com/" target="_blank">
-    <img src="https://img.shields.io/badge/figma-red.svg?style=for-the-badge&logo=figma&logoColor=white"
-      alt="figma"/>
-     </a> 
+  <img alt="HTML, CSS, React, Bootstrap, Flutter, Figma" src="https://skillicons.dev/icons?i=html,css,react,bootstrap,flutter,figma&theme=dark" />
 </p>
 
-<h2 align="center"><img src='https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966.gif' width="35px"> Backend & Database <img src='https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966.gif' width="35px"> </h2>
+<h3 align="center">Backend and Data</h3>
 <p align="center">
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/mysql-0000cc.svg?style=for-the-badge&logo=mysql&logoColor=white"
-      alt="mysql"/> 
-  </a>
-  <a href="https:https://www.php.net" target="_blank"> 
-    <img src="https://img.shields.io/badge/php-a366ff.svg?style=for-the-badge&logo=php&logoColor=white"
-      alt="php"/> 
-  </a> 
- <a href="https://www.w3schools.com/django/" target="_blank"> 
-    <img src="https://img.shields.io/badge/django-004d26.svg?style=for-the-badge&logo=django&logoColor=white"
-      alt="django"/> 
-  </a> 
+  <img alt="Django, .NET, MySQL, Firebase" src="https://skillicons.dev/icons?i=django,dotnet,mysql,firebase&theme=dark" />
 </p>
 
-
-<h2 align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 35px> Preferred IDEs  & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 35px></h2>
+<h3 align="center">Tools</h3>
 <p align="center">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/git-cc0000.svg?style=for-the-badge&logo=git&logoColor=white"
-      alt="git"/>
-  </a>
-  <a href="https://github.com/ELanza-48" target="_blank">
-    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-  </a>
-
-<a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
-  </a>
-
-<a href="https://netbeans.apache.org/" target="_blank">
-    <img src="https://img.shields.io/badge/netbeans-00cc00.svg?style=for-the-badge&logo=netbeans&logoColor=white" alt="netbeans"/> 
-  </a>
-
-  <a href="https://www.codeblocks.org/" target="_blank">
-    <img src="https://img.shields.io/badge/codeblocks-cccc00.svg?style=for-the-badge&logo=codeblocks&logoColor=white" alt="codeblocks"/> 
-  </a>
-
-  <a href="https://www.blender.org/" target="_blank">
-    <img src="https://img.shields.io/badge/blender-ff8000.svg?style=for-the-badge&logo=blender&logoColor=white" alt="blender"/> 
-  </a>
+  <img alt="Git, GitHub, VS Code, Blender" src="https://skillicons.dev/icons?i=git,github,vscode,blender&theme=dark" />
+  <br />
+  <img alt="NetBeans" src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apachenetbeanside&logoColor=white" />
+  <img alt="Code::Blocks" src="https://img.shields.io/badge/Code%3A%3ABlocks-41AD48?style=flat-square" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="100%" alt="" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-<h2 align="center"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Support: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"></h2>
-<p align="center"><a href="https://www.buymeacoffee.com/Nirmana-KAS"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Nirmana-KAS" /></a></p>
-<br>
-<br>
-<p align="center"><img src='https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif' width="80px"> </p>
+<!-- GITHUB STATS -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28" alt="" /> GitHub Analytics
+</h2>
 
-<img src="https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/Redline.gif">
+<p align="center">
+  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Nirmana-KAS&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirmana-KAS&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</p>
+
+<p align="center">
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Nirmana-KAS&theme=tokyonight&hide_border=true&background=00000000" />
+</p>
+
+<p align="center">
+  <img width="100%" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Nirmana-KAS&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000" />
+</p>
+
+<!-- CONTRIBUTION SNAKE: generated by .github/workflows/snake.yml -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nirmana-KAS/Nirmana-KAS/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nirmana-KAS/Nirmana-KAS/output/github-contribution-grid-snake.svg" />
+    <img width="100%" alt="Snake animation eating the contribution graph" src="https://raw.githubusercontent.com/Nirmana-KAS/Nirmana-KAS/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</p>
+
+<img width="100%" alt="" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+<!-- CONNECT AND SUPPORT -->
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="44" alt="" /> Let's Connect
+</h2>
+
+<p align="center">
+  Have a project in full stack, AI or agentic systems? I'd love to hear about it.
+</p>
+
+<p align="center">
+  <a href="mailto:shehanwarnasooriya@gmail.com"><img alt="Email me" src="https://img.shields.io/badge/Email-shehanwarnasooriya%40gmail.com-6a11cb?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/Nirmana-KAS"><img height="48" alt="Buy me a coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" /></a>
+</p>
+
+<!-- ANIMATED FOOTER -->
+<p align="center">
+  <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:6a11cb,100:0f0c29&height=130&section=footer&animation=fadeIn" />
+</p>
